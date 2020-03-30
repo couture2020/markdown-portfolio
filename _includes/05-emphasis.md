@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Foods
+
+Below is a _list_ of my **favorite foods**:
+
+## Food items:
+- Pizza
+- Bulgogi
+- Rice
+
+## Drinks:
+- Coke Zero
+- Gatorade
